@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CommKern"]
+	path = CommKern
+	url = https://github.com/aljensen89/commkern
+	shallow = true
+	registered = true
